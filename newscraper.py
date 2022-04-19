@@ -8,6 +8,7 @@ ppl = {
     'Ayusha': ['+16784283991', 'Biomedical Engineering'],
     'MatthewTest': ['+14049529090', 'Biomedical Engineering'],
     'Tinda': ['+14057797999', 'Computer Science'],
+    'Hayden': ['+16784888866', 'Computer Science']
 }
 
 courses = [
@@ -54,13 +55,18 @@ courses = [
     {
         'name': 'CS 2200 A',
         'CRN': '80213',
-        'numbers': ['Tinda']
+        'numbers': ['Tinda', 'Hayden']
     },
     {
         'name': 'CS 2200 B',
         'CRN': '91615',
-        'numbers': ['Tinda']
+        'numbers': ['Tinda', 'Hayden']
     },
+    {
+        'name': 'CS 3600 A',
+        'CRN': '81677',
+        'numbers': ['Hayden']
+    }
 ]
 
 url = 'https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202208&crn_in={0}'
