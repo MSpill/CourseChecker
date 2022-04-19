@@ -7,7 +7,7 @@ ppl = {
     'Matthew': ['+14049529090', 'Computer Science'],
     'Ayusha': ['+16784283991', 'Biomedical Engineering'],
     'MatthewTest': ['+14049529090', 'Biomedical Engineering'],
-    'Tinda': ['+4057797999', 'Computer Science'],
+    'Tinda': ['+14057797999', 'Computer Science'],
 }
 
 courses = [
